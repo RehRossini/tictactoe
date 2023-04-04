@@ -13,7 +13,7 @@ body {
 }
 
 #gameBoard span {
-  background-color: #ddd;
+  background-color: #afafaf;
   display: grid;
   place-content: center;
   font-size: 5rem;
